@@ -12,5 +12,9 @@
     <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" heigth="30" width="40"alt="React">
 </div>
 
-
 <br>
+
+## Idea 🥰
+
+![](./src/idea.jpg)
+![](./src/idea02.jpg);
